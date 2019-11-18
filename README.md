@@ -26,6 +26,7 @@ Das Log gibt verschiedene ActionIDs zurück, worauf hier näher eingegangen wird
 13. Man entfolgt jemandem.
 14. Man aktiviert Benachrichtigungen (Glocke).
 15. Man entfernt die Benachrichtigungen, behält aber den Stelz.
+
 Wichtig ist hierbei, dass es sich nicht um die absolute Anzahl an Votes geht, sondern nur um die Anzahl der Handlungen.  
 Wenn man ein und den selben Post je 30x hoch und runter votet, dann hat man bei 1 und 3 jeweils 30 mehr.
 
