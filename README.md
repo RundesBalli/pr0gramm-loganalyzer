@@ -31,5 +31,5 @@ Wichtig ist hierbei, dass es sich nicht um die absolute Anzahl an Votes geht, so
 Wenn man ein und den selben Post je 30x hoch und runter votet, dann hat man bei 1 und 3 jeweils 30 mehr.
 
 ## Danke
-Danke an @Mopsalarm für seine Hilfe beim unpacken der Daten und für seine Übersicht der ActionIDs:
+Danke an [@Mopsalarm](https://github.com/mopsalarm) für seine Hilfe beim unpacken der Daten und für seine Übersicht der ActionIDs:  
 [Quelle](https://github.com/mopsalarm/Pr0/blob/62b3e13a5961424ae32e918a10736eba5710d7fa/app/src/main/java/com/pr0gramm/app/services/VoteService.kt#L241-L258)
